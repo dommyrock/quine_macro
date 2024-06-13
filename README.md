@@ -1,0 +1,1 @@
+### Macro Usage: The macro is used on functions containing closures to print their definitions, including the closure.
